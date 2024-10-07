@@ -29,7 +29,7 @@
 ---
 
 ### Mon CV :
-[![Aperçu du CV](./ABDULLAHI_TECHICIEN_IT_CV.png)](./ABDULLAHI_TECHICIEN_IT_CV.pdf)
+[![Aperçu du CV](./ABDULLAHI_TECHICIEN_IT_CV.jpg)](./ABDULLAHI_TECHICIEN_IT_CV.pdf)
 
 Cliquez sur l'image pour consulter le PDF complet.
 
